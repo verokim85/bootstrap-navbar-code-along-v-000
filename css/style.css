@@ -9,3 +9,8 @@ img, video, audio, iframe, table, form {
 .row {
   margin-bottom:20px;
 }
+
+.navbar-right {
+  width: auto;
+  vertical-align: top;
+}
